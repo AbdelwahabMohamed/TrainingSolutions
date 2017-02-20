@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityCreator", "EntityCreator\EntityCreator.csproj", "{E06C7CEB-62C8-4314-A421-D7086905AF73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityCreator.Tests", "EntityCreator.Tests\EntityCreator.Tests.csproj", "{FB1B577D-6B8F-43DE-BC5C-94D6B1E99294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06C7CEB-62C8-4314-A421-D7086905AF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06C7CEB-62C8-4314-A421-D7086905AF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06C7CEB-62C8-4314-A421-D7086905AF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06C7CEB-62C8-4314-A421-D7086905AF73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1B577D-6B8F-43DE-BC5C-94D6B1E99294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1B577D-6B8F-43DE-BC5C-94D6B1E99294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1B577D-6B8F-43DE-BC5C-94D6B1E99294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1B577D-6B8F-43DE-BC5C-94D6B1E99294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

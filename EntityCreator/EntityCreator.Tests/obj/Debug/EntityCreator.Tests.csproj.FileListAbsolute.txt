@@ -1,0 +1,11 @@
+c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator.Tests\bin\Debug\EntityCreator.Tests.dll
+c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator.Tests\bin\Debug\EntityCreator.Tests.pdb
+c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator.Tests\bin\Debug\EntityCreator.dll
+c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator.Tests\bin\Debug\Spackle.dll
+c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator.Tests\bin\Debug\EntityCreator.pdb
+c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator.Tests\bin\Debug\Spackle.xml
+c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator.Tests\obj\Debug\EntityCreator.Tests.csprojResolveAssemblyReference.cache
+c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator.Tests\obj\Debug\EntityCreator.Tests.dll
+c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator.Tests\obj\Debug\EntityCreator.Tests.pdb
