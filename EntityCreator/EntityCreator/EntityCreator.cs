@@ -12,20 +12,15 @@ namespace EntityCreator
         {
             var generator = new RandomObjectGenerator();
             var entity = new T();
-            var properties = typeof(T).GetProperties(BindingFlags.Public | BindingFlags.Instance).Where(_ => _.CanWrite).ToList();
+            var properties =
+                typeof(T).GetProperties(BindingFlags.Public | BindingFlags.Instance).Where(_ => _.CanWrite).ToList();
             properties.ForEach(_ =>
             {
-                try
-                {
-                    _.SetValue(entity,
-                        typeof(RandomObjectGenerator)
-                            .GetMethod("Generate", Type.EmptyTypes)
-                            .MakeGenericMethod(new[] { _.PropertyType })
-                            .Invoke(generator, null));
-                }
-                catch (TargetInvocationException)
-                {
-                }
+                _.SetValue(entity,
+                    typeof(RandomObjectGenerator)
+                        .GetMethod("Generate", Type.EmptyTypes)
+                        .MakeGenericMethod(_.PropertyType)
+                        .Invoke(generator, null));
             });
             return entity;
         }

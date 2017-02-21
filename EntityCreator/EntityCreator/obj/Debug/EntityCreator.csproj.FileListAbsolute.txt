@@ -5,3 +5,10 @@ c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator
 c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator\obj\Debug\EntityCreator.csprojResolveAssemblyReference.cache
 c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator\obj\Debug\EntityCreator.dll
 c:\users\abdel\documents\visual studio 2015\Projects\EntityCreator\EntityCreator\obj\Debug\EntityCreator.pdb
+C:\Users\ABO3\Documents\Visual Studio 2015\Projects\EntityCreator\EntityCreator\bin\Debug\EntityCreator.dll
+C:\Users\ABO3\Documents\Visual Studio 2015\Projects\EntityCreator\EntityCreator\bin\Debug\EntityCreator.pdb
+C:\Users\ABO3\Documents\Visual Studio 2015\Projects\EntityCreator\EntityCreator\bin\Debug\Spackle.dll
+C:\Users\ABO3\Documents\Visual Studio 2015\Projects\EntityCreator\EntityCreator\bin\Debug\Spackle.xml
+C:\Users\ABO3\Documents\Visual Studio 2015\Projects\EntityCreator\EntityCreator\obj\Debug\EntityCreator.csprojResolveAssemblyReference.cache
+C:\Users\ABO3\Documents\Visual Studio 2015\Projects\EntityCreator\EntityCreator\obj\Debug\EntityCreator.dll
+C:\Users\ABO3\Documents\Visual Studio 2015\Projects\EntityCreator\EntityCreator\obj\Debug\EntityCreator.pdb
