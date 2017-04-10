@@ -1,6 +1,5 @@
 (function() {
     'use strict';
-
     angular
         .module('app.dashboard')
         .controller('Dashboard', Dashboard);
@@ -16,7 +15,7 @@
 
         function activate() {
             return getCustomers().then(function() {
-                logger.info('Activated Dashboard');
+                logger.info('Activated Dashboard 123');
             });
         }
 
